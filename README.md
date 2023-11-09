@@ -3,7 +3,6 @@
 Desafio Pratico - TODOLIST
 
 # ETAPAS
-
 - Login com localstorage
 - crição de uma tarefa com localstorage
 - deletar tarefa
@@ -13,10 +12,10 @@ Desafio Pratico - TODOLIST
   {REGISTRO PERFIL SÓ É UMA ILUSTRAÇÃO}
 
 # BIBLIOTECAS
-
 - Styled-Component
 - LocalStorage
-
+- Saga/Redux
+- 
 # EXECUTAR O PROJETO
 
 - npm run dev
